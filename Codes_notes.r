@@ -66,3 +66,22 @@ Posição das opções X
 0x08 motor
 0x09 nitro
 0x0a sair
+
+
+0x0007b1 = FER
+0x0007b2 = 
+0x0007b3 =
+0x0007b4 = WIL
+0x0007b5 =
+0x0007b6 =
+0x0007b7 =
+
+
+
+WIL
+TYR
+MCL
+JOR
+LEY
+FER
+BEN
