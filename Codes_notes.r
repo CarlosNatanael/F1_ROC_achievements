@@ -76,12 +76,13 @@ Endereços:
 0x0007b6 = BEN - R. PALUKA
 0x0007b7 = JOR - M. FLAERTY
 
-
-0x = 1st Place
-0x = 2nd Place
-0x = 3rd Place
-0x = 4th Place
-0x = 5th Place
-0x = 6th Place
-0x = 7th Place
-0x = 8th Place
+Endereço: 0x0007d9
+Ele informa minha Posição ao final de cada volta.
+0x00 = 1st Place
+0x01 = 2nd Place
+0x02 = 3rd Place
+0x03 = 4th Place
+0x04 = 5th Place
+0x05 = 6th Place
+0x06 = 7th Place
+0x07 = 8th Place

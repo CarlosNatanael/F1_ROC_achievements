@@ -1,30 +1,50 @@
-## Progression Achievements (Conquistas de Progressão)
+## Progression achievements (Conquistas de Progressão)
 
-O Sonho se Torna Realidade: Vença o campeonato mundial de F1 pela primeira vez.
-Lenda do Asfalto: Vença o campeonato mundial de F1 pela segunda vez.
-A Máquina Perfeita: Compre TODAS as melhorias
+[ ] The Dream Comes True:
+ └── Win the F1 World Championship for the first time.
+[ ] Legend of the Asphalt:
+ └── Win the F1 World Championship for the second time
 
 ## Side Quest/Optional Achievements (Conquistas Opcionais/Missões Secundárias)
 
-Posição de Honra: Conquiste sua primeira Pole Position em qualquer circuito.
-Primeiro Ajuste: Compre sua primeira melhoria.
-Começando na Frente: Vença uma corrida depois de largar da Pole Position.
-Tifosi's Hero: Vença uma corrida no Templo da Velocidade, na Itália.*
-Silverstone Conqueror: Conquiste a vitória no lar do automobilismo britânico, na Inglaterra.*
-Autobahn Ace: Mostre precisão alemã e vença uma corrida na Alemanha.*
-Samba Victory: Faça a festa em casa e vença a corrida no Brasil.*
-Imola Champion: Domine as curvas traiçoeiras e vença em San Marino.*
-The Matador: Vença a corrida com estilo na Espanha.*
-Estoril Excellence: Demonstre excelência e vença a corrida em Portugal.*
-High-Altitude Hero: Supere o ar rarefeito e vença a corrida no México.*
-King of the Hungaroring: Seja o rei da pista sinuosa e vença na Hungria.*
-Wall of Champions: Conquered: Evite o Muro dos Campeões e vença a corrida no Canadá.*
-Vive la Victoire!: Comemore com estilo e vença a corrida na França.*
-Master of Eau Rouge: Domine a subida mais famosa do mundo e vença na Bélgica.*
-Down Under Dominator: Domine o circuito de rua e vença na Austrália.*
-The American Dream: Realize o sonho americano e vença a corrida nos EUA.*
-Jewel in the Crown: Conquiste a Joia da Coroa e vença nas ruas de Mônaco.*
-Suzuka Samurai: Mostre a disciplina de um samurai e vença a corrida no Japão.*
+[ ] Pole Position
+ └── Achieve your first Pole Position in any circuit.
+[ ] First Upgrade
+ └── Buy your first car improvement.
+[ ] Pole to Win
+ └── Win a race after starting from Pole Position.
+[ ] Tifosi's Hero
+ └── Win a race at the Italian circuit.
+[ ] Silverstone Conqueror
+ └── Win a race at the Great Britain circuit.
+[ ] Autobahn Ace
+ └── Win a race at the German circuit.
+[ ] Samba Victory
+ └── Win a race at the Brazilian circuit.
+[ ] Imola Champion
+ └── Win a race at the San Marino circuit.
+[ ] The Matador
+ └── Win a race at the Spanish circuit.
+[ ] Estoril Excellence
+ └── Win a race at the Portuguese circuit.
+[ ] High-Altitude Hero
+ └── Win a race at the Mexican circuit.
+[ ] King of the Hungaroring
+ └── Win a race at the Hungarian circuit.
+[ ] Wall of Champions
+ └── Win a race at the Canadian circuit.
+[ ] Vive la Victoire!
+ └── Win a race at the French circuit.
+[ ] Master of Eau Rouge
+ └── Win a race at the Belgian circuit.
+[ ] Down Under Dominator
+ └── Win a race at the Australian circuit.
+[ ] The American Dream
+ └── Win a race at the USA circuit.
+[ ] Jewel in the Crown
+ └── Win a race at the Monaco circuit.
+[ ] Suzuka Samurai
+ └── Win a race at the Japanese circuit.
 
 
 ## Collection Achievements (Conquistas de Coleção)
