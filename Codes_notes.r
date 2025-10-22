@@ -1,20 +1,20 @@
 Endereço: 0x0013b8
-Circuitos 1 (0x00) Italia
-Circuitos 2 (0x01) Inglaterra
-Circuitos 3 (0x02) Alemanhã
-Circuitos 4 (0x03) Brasil
-Circuitos 5 (0x04) Sanmarino
-Circuitos 6 (0x05) spain
-Circuitos 7 (0x06) Portugal
-Circuitos 8 (0x07) Mexico
-Circuitos 9 (0x08) Hungria
-Circuitos 10 (0x09) Canada
-Circuitos 11 (0x0a) França
-Circuitos 12 (0x0b) Belgica
-Circuitos 13 (0x0c) Australia
-Circuitos 14 (0x0d) EUA
-Circuitos 15 (0x0e) Monaco
-Circuitos 16 (0x0f) Japão
+Circuitos = 1 (0x00) Italia
+Circuitos = 2 (0x01) Inglaterra
+Circuitos = 3 (0x02) Alemanhã
+Circuitos = 4 (0x03) Brasil
+Circuitos = 5 (0x04) Sanmarino
+Circuitos = 6 (0x05) spain
+Circuitos = 7 (0x06) Portugal
+Circuitos = 8 (0x07) Mexico
+Circuitos = 9 (0x08) Hungria
+Circuitos = 10 (0x09) Canada
+Circuitos = 11 (0x0a) França
+Circuitos = 12 (0x0b) Belgica
+Circuitos = 13 (0x0c) Australia
+Circuitos = 14 (0x0d) EUA
+Circuitos = 15 (0x0e) Monaco
+Circuitos = 16 (0x0f) Japão
 
 Endereço: 0x000049
 Direção [8 bit]
@@ -48,40 +48,40 @@ Marcha atual [8 bit]
 
 Endereço: 0x00006f 
 opções Y
-0x00 primeira opção
-0x01 segunda opção
-0x02 Terceira opção
-0x03 Quarta opção
+0x00 = primeira opção
+0x01 = segunda opção
+0x02 = Terceira opção
+0x03 = Quarta opção
 
 Endereço: 0x000073 
 Posição das opções X
-0x00 chassi
-0x01 mission
-0x02 brake
-0x03 suspension
-0x04 difuser
-0x05 Frowt wing
-0x06 Rear wing
-0x07 roda
-0x08 motor
-0x09 nitro
-0x0a sair
+0x00 = chassi
+0x01 = mission
+0x02 = brake
+0x03 = suspension
+0x04 = difuser
+0x05 = Frowt wing
+0x06 = Rear wing
+0x07 = roda
+0x08 = motor
+0x09 = nitro
+0x0a = sair
+
+Endereços:
+0x0007b1 = FER - T. PHILIPS
+0x0007b2 = LEY - M. OWEM
+0x0007b3 = MCL - A. SETA
+0x0007b4 = WIL - N.J. MYDEN
+0x0007b5 = TYR - J. SPOHN 
+0x0007b6 = BEN - R. PALUKA
+0x0007b7 = JOR - M. FLAERTY
 
 
-0x0007b1 = FER
-0x0007b2 = 
-0x0007b3 =
-0x0007b4 = WIL
-0x0007b5 =
-0x0007b6 =
-0x0007b7 =
-
-
-
-WIL
-TYR
-MCL
-JOR
-LEY
-FER
-BEN
+0x = 1st Place
+0x = 2nd Place
+0x = 3rd Place
+0x = 4th Place
+0x = 5th Place
+0x = 6th Place
+0x = 7th Place
+0x = 8th Place
