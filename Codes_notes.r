@@ -1,4 +1,4 @@
-Endereço: 0x0013b8
+Endereço: 0x0013b8 [8-bit]
 Circuitos = 1 (0x00) Italia
 Circuitos = 2 (0x01) Inglaterra
 Circuitos = 3 (0x02) Alemanhã
@@ -17,7 +17,7 @@ Circuitos = 15 (0x0e) Monaco
 Circuitos = 16 (0x0f) Japão
 
 Endereço: 0x000049
-Direção [8 bit]
+Direção [8-bit]
 - Value = Mem - 1
 - left = 0x02
 - right = 0x01
@@ -25,7 +25,7 @@ Direção [8 bit]
 - accelerate = 0x80
 
 Endereço: 0x000076
-Dano do carro [8 bit]
+Dano do carro [8-bit]
 Qualquer valor maior que 0x00 é um dano.
 
 Endereço: 0x0013de
@@ -42,18 +42,18 @@ Score point
 
 
 Endereço: 0x000059
-Marcha atual [8 bit]
+Marcha atual [8-bit]
 - Value = Mem - 1
  1 a 7 = 0x01 a 0x07
 
 Endereço: 0x00006f 
-opções Y
+opções Y [8-bit]
 0x00 = primeira opção
 0x01 = segunda opção
 0x02 = Terceira opção
 0x03 = Quarta opção
 
-Endereço: 0x000073 
+Endereço: 0x000073 [8-bit]
 Posição das opções X
 0x00 = chassi
 0x01 = mission
@@ -68,6 +68,27 @@ Posição das opções X
 0x0a = sair
 
 Endereços:
+0x0013e8 = Active Player Name - Char 1 [8-bit ASCII]
+0x0013e9 = Active Player Name - Char 2 [8-bit ASCII]
+0x0013ea = Active Player Name - Char 3 [8-bit ASCII]
+0x0013eb = Active Player Name - Char 4 [8-bit ASCII]
+0x0013ec = Active Player Name - Char 5 [8-bit ASCII]
+0x0013ed = Active Player Name - Char 6 [8-bit ASCII]
+0x0013ee = Active Player Name - Char 7 [8-bit ASCII]
+0x0013ef = Active Player Name - Char 8 [8-bit ASCII]
+0x0013f0 = Active Player Name - Char 9 [8-bit ASCII]
+
+
+Endereço: 0x00153f
+Select Player Cursor [8-bit]
+- 0x00=Name1
+- 0x01=Name2
+- 0x02=Name3
+- 0x03=Name4
+- 0x04=New
+- 0x05=NameChange
+
+Endereços: [8-bit]
 0x0007b1 = FER - T. PHILIPS
 0x0007b2 = LEY - M. OWEM
 0x0007b3 = MCL - A. SETA
@@ -76,7 +97,7 @@ Endereços:
 0x0007b6 = BEN - R. PALUKA
 0x0007b7 = JOR - M. FLAERTY
 
-Endereço: 0x0007d9
+Endereço: 0x0007d9 [8-bit]
 Ele informa minha Posição ao final de cada volta.
 0x00 = 1st Place
 0x01 = 2nd Place
