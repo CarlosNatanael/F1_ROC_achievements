@@ -12,61 +12,61 @@ Conquistas com problemas: /35
 
 ## Side Quest/Optional Achievements (Conquistas Opcionais/Missões Secundárias)
 
-[  ] Pole Position
+[ X ] Pole Position
  └── Conquiste sua primeira Pole Position em qualquer circuito.
 
-[  ] Primeira Melhoria
+[ X ] Primeira Melhoria
  └── Compre sua primeira melhoria para o carro.
 
-[  ] Pole to Win
+[ X ] Pole to Win
  └── Vença uma corrida após largar da Pole Position.
 
-[  ] Herói de Tifosi
+[ X ] Herói de Tifosi
  └── Vença uma corrida no circuito italiano.
 
-[  ] Conquistador de Silverstone
+[ X ] Conquistador de Silverstone
  └── Vença uma corrida no circuito da Grã-Bretanha.
 
-[  ] Ás da Autobahn
+[ X ] Ás da Autobahn
  └── Vença uma corrida no circuito alemão.
 
-[  ] Vitória do Samba
+[ X ] Vitória do Samba
  └── Vença uma corrida no circuito brasileiro.
 
-[  ] Campeão de Ímola
+[ X ] Campeão de Ímola
  └── Vença uma corrida no circuito de San Marino.
 
-[  ] O Matador
+[ X ] O Matador
  └── Vença uma corrida no circuito espanhol.
 
-[  ] Excelência do Estoril
+[ X ] Excelência do Estoril
  └── Vença uma corrida no circuito português.
 
-[  ] Herói das Altas Altitudes
+[ X ] Herói das Altas Altitudes
  └── Vença uma corrida no circuito mexicano.
 
-[  ] Rei do Hungaroring
+[ X ] Rei do Hungaroring
  └── Vença uma corrida no circuito húngaro.
 
-[  ] Muralha dos Campeões
+[ X ] Muralha dos Campeões
  └── Vença uma corrida no circuito canadense.
 
-[  ] Viva a Vitória!
+[ X ] Viva a Vitória!
  └── Vença uma corrida no circuito francês.
 
-[  ] Mestre da Água Vermelha
+[ X ] Mestre da Água Vermelha
  └── Vença uma corrida no circuito belga.
 
-[  ] Dominador da Austrália
+[ X ] Dominador da Austrália
  └── Vença uma corrida no circuito australiano.
 
-[  ] O Sonho Americano
+[ X ] O Sonho Americano
  └── Vença uma corrida no circuito dos EUA.
 
-[  ] A Joia da Coroa
+[ X ] A Joia da Coroa
  └── Vença uma corrida no circuito de Mônaco.
 
-[  ] Samurai de Suzuka
+[ X ] Samurai de Suzuka
  └── Vença uma corrida no circuito japonês.
 
 

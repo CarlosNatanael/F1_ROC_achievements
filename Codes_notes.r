@@ -54,7 +54,7 @@ opções Y [8-bit]
 0x03 = Quarta opção
 
 Endereço: 0x000073 [8-bit]
-Posição das opções X
+Posição das opções Y
 0x00 = chassi
 0x01 = mission
 0x02 = brake
