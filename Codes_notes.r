@@ -1,4 +1,4 @@
-Endereço: 0x0013b8 [8-bit]
+Endereço: 0x0013de [8-bit]
 Circuitos = 1 (0x00) Italia
 Circuitos = 2 (0x01) Inglaterra
 Circuitos = 3 (0x02) Alemanhã
