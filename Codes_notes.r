@@ -107,3 +107,14 @@ Ele informa minha Posição ao final de cada volta.
 0x05 = 6th Place
 0x06 = 7th Place
 0x07 = 8th Place
+
+Endereço:  0x0007dd
+Game State / Current Screen [8-bit]
+0x10 = Initial Menus (Boot/Select Player/Mode Select)
+0x0c = Next Track Intro Screen (Mostra a próxima pista)
+0x06 = Post-Race Screens (Points/Prize Money Display)
+0x0b = Save Data Screen
+0x11 = Car Setup Screen (Configuração do carro)
+0x0e = Qualifying Session (Qualificação)
+0x05 = Post-Qualifying Results Screen (Tela de classificação do Qualy)
+0x0d = Race Session (Corrida)
