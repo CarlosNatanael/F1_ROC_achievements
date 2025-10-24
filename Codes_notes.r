@@ -113,6 +113,7 @@ Game State / Current Screen [8-bit]
 0x10 = Initial Menus (Boot/Select Player/Mode Select)
 0x0c = Next Track Intro Screen (Mostra a próxima pista)
 0x06 = Post-Race Screens (Points/Prize Money Display)
+0x07 = Overall Classification Results Screen
 0x0b = Save Data Screen
 0x11 = Car Setup Screen (Configuração do carro)
 0x0e = Qualifying Session (Qualificação)

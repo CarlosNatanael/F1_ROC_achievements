@@ -90,9 +90,6 @@ Conquistas com problemas: /35
 [  ] A Máquina Perfeita
  └── Compre todas as atualizações disponíveis para um carro de F1.
 
-[  ] A Máquina Perfeita
- └── Compre TODAS as atualizações
-
 ## For Fun/Easter Egg Achievements (Conquistas por Diversão/Segredos)
 
 [  ] Jackpot de Mônaco
